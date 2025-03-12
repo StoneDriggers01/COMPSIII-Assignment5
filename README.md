@@ -8,18 +8,22 @@ You will add the following values to the database
 
 | Name | Population | Country |
 | -----| ---------- | ------- |
-New York | 8,398,748 | United States |
-Tokyo | 13,515,271 | Japan |
-Cairo | 9,500,000 | Egypt |
-Sydney | 5,312,163 | Australia | 
-São Paulo | 12,252,023 | Brazil |
-Paris | 2,140,526 | France |
-Lagos | 14,368,332 | Nigeria |
-Mumbai | 12,442,373 | India |
-Osaka | 2,752,123 | Japan |
-Beijing | 21,542,000 | China |
+| New York | 8,398,748 | United States |
+| Tokyo | 13,515,271 | Japan |
+| Cairo | 9,500,000 | Egypt |
+| Sydney | 5,312,163 | Australia | 
+| São Paulo | 12,252,023 | Brazil |
+| Paris | 2,140,526 | France |
+| Lagos | 14,368,332 | Nigeria |
+| Mumbai | 12,442,373 | India |
+| Osaka | 2,752,123 | Japan |
+| Beijing | 21,542,000 | China |
 
 Once you have these 10 items in the database, you will query the database using SQL in order to print out and update information stored in your cities in your table.
+
+After you have verified that the table has been created with these values, you need to do the following:
+- Updated Bejing's population to 19,400,000
+- Delete the rows that contain New York, Paris, and Cairo. 
 
 ## Grading Your Work
 This assignment can grade itself! To setup the autograding, you should do the following:
