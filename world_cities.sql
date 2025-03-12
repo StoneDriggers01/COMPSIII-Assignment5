@@ -1,0 +1,3 @@
+-- Write your code below this line
+-- You can run this file with the command sqlite3 world_cities.db < world_cities.sql
+-- If you don't run this file before running the tests, some tests will fail even though your queries may be correct!
