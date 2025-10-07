@@ -39,10 +39,10 @@ DELETE FROM cities WHERE name = 'Paris';
 SELECT * FROM cities;
 
 -- Print out all Japan values
--- SELECT * FROM cities WHERE country = 'Japan';
+SELECT * FROM cities WHERE country = 'Japan';
 
 -- Print out Population of Beijing
--- SELECT * FROM cities WHERE name = 'Beijing';
+SELECT * FROM cities WHERE name = 'Beijing';
 
 -- You can run this file with the command sqlite3 world_cities.db < world_cities.sql
 -- If you don't run this file before running the tests, some tests will fail even though your queries may be correct!
